@@ -1,7 +1,7 @@
-# Alfan_Maulana
+# Alfan Maulana
 # 5311421011
 # Teknik Elektro
-Tugas Artificial Intelligence
+# Tugas Artificial Intelligence
 
 Klasifikasi Gambar Berbasis Machine Learning
 
